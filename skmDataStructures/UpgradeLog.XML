@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="skmDataStructures">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\active\Desktop\Mod9\Binary Trees and BSTs\skmDataStructures\skmDataStructures.sln">
+</Property><Property Name="Date" Value="Thursday, November 20, 2008">
+</Property><Property Name="Time" Value="17:22 PM">
+</Property></Properties><Event ErrorLevel="0" Project="skmDataStructures" Source="skmDataStructures.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="skmDataStructures" Source="skmDataStructures.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BSTTester" Source="..\BSTTester\BSTTester.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BSTTester" Source="..\BSTTester\BSTTester.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="skmDataStructures.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="skmDataStructures.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="skmDataStructures" Source="skmDataStructures.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BSTTester" Source="..\BSTTester\BSTTester.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
