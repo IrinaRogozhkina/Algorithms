@@ -1,0 +1,14 @@
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\bin\Debug\BedrockShop.exe.config
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\bin\Debug\BedrockShop.exe
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\bin\Debug\BedrockShop.pdb
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\obj\Debug\BedrockShop.csprojResolveAssemblyReference.cache
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\obj\Debug\BedrockShop.exe
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\obj\Debug\BedrockShop.pdb
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\bin\Debug\EntityFramework.dll
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\bin\Debug\EntityFramework.xml
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\obj\Debug\BedrockShop.Migrations.InitialCreate.resources
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\obj\Debug\BedrockShop.csproj.GenerateResource.Cache
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\obj\Debug\BedrockShop.Migrations.Initial.resources
+C:\Users\ira\Documents\Visual Studio 2015\Projects\ProjectsC#\BedrockShop\BedrockShop\obj\Debug\BedrockShop.Migrations.Initial2.resources
